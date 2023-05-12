@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+            }
+            .q1{
+                text-align: center;
+            }
+            .rel{
+                color: rebeccapurple;
+                background-color:lightpink;
+                text-align: center;
+                font-size: 25px;
+               
+            }
+            .t{
+                background-color: lightpink;
+                text-align: right;
+               
+            }
+            .tt{
+                background-color: lightpink;
+                            }
+        td , tr{
+        padding: 10px;
+        border: 5px solid black;
+        text-align: left;
+    
+        }
